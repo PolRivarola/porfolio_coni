@@ -8,13 +8,13 @@ export default function AboutPage() {
       <div className="container mx-auto px-4 md:px-6 py-8">
         <Link href="/" className="inline-flex items-center text-sm mb-8 hover:underline">
           <ArrowLeft className="h-4 w-4 mr-2" />
-          Back to projects
+          Volver a proyectos
         </Link>
 
         <div className="grid md:grid-cols-2 gap-8 lg:gap-16">
           <div className="space-y-8">
             <div>
-              <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif mb-6">About</h1>
+              <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif mb-6">Constanza Ceballos R.</h1>
               <div className="prose max-w-none">
                 <p>
                   STUDIO ADJECTIVE is a Space and Object design studio that weaves narratives into every work, shaping

@@ -10,7 +10,7 @@ export default function ContactPage() {
       <div className="container mx-auto px-4 md:px-6 py-8">
         <Link href="/" className="inline-flex items-center text-sm mb-8 hover:underline">
           <ArrowLeft className="h-4 w-4 mr-2" />
-          Back to projects
+          Volver a proyectos
         </Link>
 
         <div className="grid md:grid-cols-2 gap-8 lg:gap-16">
